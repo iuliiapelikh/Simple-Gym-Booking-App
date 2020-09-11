@@ -1,4 +1,4 @@
-# Simple-Gym-Booking-App
+# Simple Gym Booking App
 
 This is a simple Gym Booking App I designed in Summer 2020 using Kotlin, Java, and HTML/CSS in Android Studio.
 
